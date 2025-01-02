@@ -1,5 +1,5 @@
 {
-  "homepage": "http://aswin.github.io/chatbot3d",
+  "homepage": "http://Aswinnn07.github.io/chatbot3d",
   "name": "r3f-vite-starter",
   "private": true,
   "version": "1.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@react-three/drei": "^9.120.4",
